@@ -17,6 +17,36 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Artikel:
-
+    - alchemiekiste/index.md
+    - fischertechnik/index.md
+    - geheimversteck-ast/index.md
+    - heisser-draht/index.md
+    - holzbox-metall-beschlag/index.md
+    - holzkiste-mit-glasflaschen/index.md
+    - holzkiste-mit-tee/index.md
+    - holztruhe-deko/index.md
+    - kamera-obscura/index.md
+    - kamera-schwebestativ/index.md
+    - kupfer-pott/index.md
+    - lampen-und-muscheln/index.md
+    - lederkoffer-mit-wlan-steckdosen/index.md
+    - massive-holzkiste-02/index.md
+    - massive-holzkiste/index.md
+    - pompfenbauset/index.md
+    - raspberry-pi/index.md
+    - reagenzgläser-und-ganzjahresfeuerwerk/index.md
+    - schach-und-kisten/index.md
+    - schatulle/index.md
+    - schiefertafel/index.md
+    - segelhandbuch-elbe-alt/index.md
+    - set-latexarbeiten/index.md
+    - set-papierschöpfen/index.md
+    - topf-und-fackeln/index.md
+    - weinkiste/index.md
+    - wikingerstuhl/index.md
+    - zeugs-01/index.md
+    - zeugs-02/index.md
+    - zeugs-03/index.md
+    - zeugs-04/index.md
 
 
