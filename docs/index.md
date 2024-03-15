@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Larp Flohmarkt
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Diese Dinge liegen in meinem Keller und werden nicht mehr gebraucht.
+Preis ist VHB, wenn nicht anders genannt.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

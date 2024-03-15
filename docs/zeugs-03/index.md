@@ -6,5 +6,13 @@ Tischfeuerwerk, UV Kreide.
 Bei dem "Schwarzpulver" und "Salpeter" handelt es sich um zerriebene Kreide, Kohle, Salz.
 
 
-![zeugs-03](P1940841.JPG)
-![zeugs-03](P1940843.JPG)
+
+
+
+
+
+
+
+
+[![zeugs-03](P1940841_thumb.jpg)](P1940841.JPG)
+[![zeugs-03](P1940843_thumb.jpg)](P1940843.JPG)
