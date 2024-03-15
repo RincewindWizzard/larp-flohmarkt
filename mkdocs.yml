@@ -1,0 +1,22 @@
+site_name: Larp Flohmarkt Ehrlich B. Standen
+
+
+
+#site_url: https://bootsbuch.segelgruppe-kiel.de/
+repo_url: https://github.com/RincewindWizzard/larp-flohmarkt
+edit_uri: ./edit/main/docs/
+
+theme:
+  name: readthedocs
+  language: de
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: index.md
+  - Artikel:
+
+
+
